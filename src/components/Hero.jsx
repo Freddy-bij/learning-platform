@@ -1,3 +1,4 @@
+import Name from "./Name";
 const Hero = () =>{
     return(
         <>
